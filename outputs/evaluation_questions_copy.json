@@ -1,0 +1,86 @@
+[
+  {
+    "id": "Q01",
+    "question": "What are the four System Design Processes described by NASA, and what is their overall purpose?",
+    "reference_answer": "The four System Design Processes are Stakeholder Expectations Definition, Technical Requirements Definition, Logical Decomposition, and Design Solution Definition. Together, they define stakeholder expectations, establish technical requirements, decompose requirements into logical and behavioral models, and develop a design solution that satisfies the expectations.",
+    "relevant_chunk_ids": [
+      "p0053_c000"
+    ]
+  },
+  {
+    "id": "Q02",
+    "question": "What is the difference between the Product Verification Process and the Product Validation Process?",
+    "reference_answer": "Verification demonstrates that an end product conforms to its design solution requirements. Validation confirms that the verified end product fulfills its intended use in its intended environment and satisfies baselined stakeholder expectations.",
+    "relevant_chunk_ids": [
+      "p0021_c000",
+      "p0021_c001"
+    ]
+  },
+  {
+    "id": "Q03",
+    "question": "What characteristics and requirements are described by NASA's product baseline?",
+    "reference_answer": "The product baseline describes the detailed physical or form, fit, and function characteristics of a configuration item; the selected functional characteristics designated for production acceptance testing; and the production acceptance test requirements.",
+    "relevant_chunk_ids": [
+      "p0157_c000",
+      "p0157_c001"
+    ]
+  },
+  {
+    "id": "Q04",
+    "question": "What are the main steps in NASA's normal configuration change control process, from submitting a change request to closing it?",
+    "reference_answer": "The process includes preparing and submitting a change request; logging and screening it; releasing it for review; collecting review comments; preparing a decision package; obtaining the Configuration Control Board's disposition and assigning actions as needed; completing assigned actions; implementing approved changes and finalizing documentation; verifying the release package; and releasing the final documentation and closing the request.",
+    "relevant_chunk_ids": [
+      "p0158_c001"
+    ]
+  },
+  {
+    "id": "Q05",
+    "question": "According to NASA, how does a major engineering change differ from a minor engineering change?",
+    "reference_answer": "A major engineering change significantly affects the baseline configuration documentation and may affect delivered products, baseline specifications, cost, safety, compatibility with interfacing products, or operator and maintenance training. A minor change modifies or corrects documentation or processes without affecting product interchangeability.",
+    "relevant_chunk_ids": [
+      "p0159_c000"
+    ]
+  },
+  {
+    "id": "Q06",
+    "question": "Who chairs NASA's internal Configuration Control Board, and what is the board responsible for in configuration change control?",
+    "reference_answer": "The internal NASA Configuration Control Board is chaired by someone with program or project change authority. The board members represent stakeholders authorized to commit their teams. The board participates in the disposition of change requests and assignment of actions as part of the change control process.",
+    "relevant_chunk_ids": [
+      "p0158_c000"
+    ]
+  },
+  {
+    "id": "Q07",
+    "question": "At what review is the allocated baseline typically established, and what does this baseline specify?",
+    "reference_answer": "The allocated baseline is typically established at the Preliminary Design Review (PDR). It describes the functional and interface characteristics allocated from higher-level requirements and the verification required to demonstrate that those characteristics have been achieved.",
+    "relevant_chunk_ids": [
+      "p0156_c002",
+      "p0157_c000"
+    ]
+  },
+  {
+    "id": "Q08",
+    "question": "When is the as-deployed baseline established, and what does it indicate about the system?",
+    "reference_answer": "The as-deployed baseline occurs at the Operational Readiness Review (ORR). At that point, the design is considered functional and ready for flight, and the documentation incorporates the changes made up to that stage.",
+    "relevant_chunk_ids": [
+      "p0158_c000"
+    ]
+  },
+  {
+    "id": "Q09",
+    "question": "Why does NASA use configuration change management, and what activities are involved in managing an approved design change?",
+    "reference_answer": "Configuration change management controls approved designs and the implementation of approved changes. It involves systematically proposing, justifying, and evaluating changes, incorporating approved changes, and verifying that implementation.",
+    "relevant_chunk_ids": [
+      "p0158_c000"
+    ]
+  },
+  {
+    "id": "Q10",
+    "question": "What factors should be considered when deciding the level of simulation fidelity required for product verification during operations?",
+    "reference_answer": "Factors include runtime constraints, the level of detail required, the level of system integration, and environmental effects. The necessary fidelity depends on the nature and criticality of the product and the verification activity.",
+    "relevant_chunk_ids": [
+      "p0267_c000",
+      "p0267_c001"
+    ]
+  }
+]

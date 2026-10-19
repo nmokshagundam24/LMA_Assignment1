@@ -1,0 +1,13 @@
+question_id,chunk_id,baseline_dense_rank,reranked_rank,baseline_in_top3,reranked_in_top3,rank_shift
+Q01,p0016_c000,,,False,False,
+Q02,p0021_c000,4.0,1.0,False,True,3.0
+Q02,p0021_c001,,,False,False,
+Q03,p0157_c001,,,False,False,
+Q04,p0158_c001,1.0,1.0,True,True,0.0
+Q05,p0159_c000,1.0,1.0,True,True,0.0
+Q06,p0158_c000,1.0,1.0,True,True,0.0
+Q07,p0157_c000,6.0,1.0,False,True,5.0
+Q08,p0158_c000,,,False,False,
+Q09,p0158_c000,1.0,1.0,True,True,0.0
+Q10,p0267_c000,2.0,1.0,True,True,1.0
+Q10,p0267_c001,,,False,False,
